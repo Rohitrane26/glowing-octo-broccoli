@@ -1,4 +1,4 @@
-# Python 2 vs Python 3 by Varsha G30 - FSD
+# Python 2 vs Python 3 by Rohit G30 - FSD
 
 ## 1. Print Usage
 
